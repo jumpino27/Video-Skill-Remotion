@@ -1,0 +1,12 @@
+{
+  "name": "media-skills",
+  "version": "1.0.0",
+  "description": "Narrated video (/video), music (/music), image generation (/image), and background removal (/crop) skills for Claude Code.",
+  "author": {
+    "name": "jumpino27",
+    "url": "https://github.com/jumpino27"
+  },
+  "homepage": "https://github.com/jumpino27/Video-Skill-Remotion",
+  "license": "MIT",
+  "keywords": ["video", "music", "image", "remotion", "elevenlabs", "tts", "skills"]
+}

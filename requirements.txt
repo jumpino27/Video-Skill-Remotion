@@ -1,0 +1,10 @@
+# Python dependencies for the media skills.
+#   /image  -> openai, pillow
+#   /crop   -> rembg, pillow, numpy, onnxruntime
+#   /music  -> (none: stdlib only)
+# Install with:  pip install -r requirements.txt
+openai>=1.0
+pillow>=10.0
+numpy>=1.24
+rembg>=2.0
+python-dotenv>=1.0   # optional; the skills also parse .env files without it

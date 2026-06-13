@@ -1,0 +1,32 @@
+# Secrets & personal config — never commit these
+.env
+**/.env
+skills/video/config/persona.json
+
+# Node / Remotion
+node_modules/
+out/
+stills/
+build/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Generated media / skill outputs
+music_output/
+**/public/voice*.mp3
+**/public/music*.mp3
+**/public/captions*.json
+**/public/media/
+*.mp4
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

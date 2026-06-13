@@ -1,0 +1,16 @@
+{
+  "platform": "tiktok",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "lang": "en",
+  "audioFile": "voice.mp3",
+  "captionsFile": "captions.json",
+  "media": [
+    { "src": "media/shot1.jpg", "type": "image" },
+    { "src": "media/clip2.mp4", "type": "video" }
+  ],
+  "captionStyle": "tiktok",
+  "accent": "#6C5CE7",
+  "title": "Optional on-screen title"
+}

@@ -1,0 +1,29 @@
+{
+  "creatorName": "Your Name",
+  "brandName": "Your Brand",
+  "tagline": "what you do, in one line",
+  "links": {
+    "website": "https://yourbrand.com",
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "x": "",
+    "github": ""
+  },
+  "voice": {
+    "id": "eXO2dNYP4zo4oPWzuLta",
+    "name": "Ivy",
+    "model": "eleven_v3",
+    "stability": "natural"
+  },
+  "presenter": {
+    "name": "Eve",
+    "skill": "eve"
+  },
+  "accentColor": "#6C5CE7",
+  "defaultPlatform": "shorts",
+  "distribution": {
+    "linkPlacement": "description",
+    "notes": "Where spoken/caption CTAs should send people: 'description', 'first-comment', 'landing-page', 'bio', or 'none'."
+  }
+}
