@@ -5,6 +5,18 @@
 ### Turn one sentence into a finished **video**, **song**, or **image** — without ever leaving your editor.
 
 <p>
+  <a href="https://www.instagram.com/jumpino27/">
+    <img alt="Follow @jumpino27 on Instagram" src="https://img.shields.io/badge/Follow%20%40jumpino27-AI%20%C2%B7%20news%20%C2%B7%20skills%20%26%20repos-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://revolut.me/jumpino">
+    <img alt="Support my work on Revolut" src="https://img.shields.io/badge/%E2%9D%A4%20Support%20my%20work-Revolut-0666EB?style=for-the-badge&logo=revolut&logoColor=white">
+  </a>
+</p>
+
+> 📲 **Follow [@jumpino27](https://www.instagram.com/jumpino27/)** for AI, news, skills & repos — &nbsp; ❤️ **Like these skills? [Support me on Revolut](https://revolut.me/jumpino).**
+
+<p>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-22c55e?style=for-the-badge">
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-skills-6C5CE7?style=for-the-badge">
   <img alt="Skills" src="https://img.shields.io/badge/skills-4-3b82f6?style=for-the-badge">
@@ -189,6 +201,20 @@ These skills call paid APIs (ElevenLabs, OpenAI) billed to **your** accounts. `/
 ---
 
 <div align="center">
+
+### Enjoying these skills?
+
+<a href="https://www.instagram.com/jumpino27/">
+  <img alt="Follow @jumpino27 on Instagram" src="https://img.shields.io/badge/Follow%20%40jumpino27-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+&nbsp;
+<a href="https://revolut.me/jumpino">
+  <img alt="Support my work on Revolut" src="https://img.shields.io/badge/%E2%9D%A4%20Support%20my%20work-Revolut-0666EB?style=for-the-badge&logo=revolut&logoColor=white">
+</a>
+
+<sub>AI · news · skills & repos on Instagram · support keeps new skills coming</sub>
+
+<br><br>
 
 **MIT** © [jumpino27](https://github.com/jumpino27) — see [LICENSE](LICENSE).
 
